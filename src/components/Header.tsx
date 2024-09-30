@@ -68,10 +68,9 @@ const Header: FC<{ user?: User }> = ({ user }) => {
                         </Link>
                         <div className="hidden text-sm font-medium text-slate-500 dark:text-slate-500 md:block">
                             <span className="text-lg font-bold text-slate-900 dark:text-white">
-                                Jx
+                                Crypto
                             </span>{' '}
-                            &mdash; Built with Next.js, tailored for
-                            Laravel&apos;s API.
+                            &Batik
                         </div>
                     </div>
                     <div className="flex flex-row items-center gap-3">
